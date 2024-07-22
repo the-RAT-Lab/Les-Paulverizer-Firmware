@@ -1,0 +1,6 @@
+You may open this source code and run it in Max without limitations even if you don't have a license for Max.
+
+1. Download and install Max from http://cycling74.com; you do not need a license to download or install Max, only to save projecrs
+2. Open Max once you've installed it, and select File>Open and find and open the "Les Paulverizer.maxproj" file in the "Les Paulverizer" folder on your computer (where this READ ME.txt file is also located). 
+
+Visit http://lespaulverizer.com for more info 

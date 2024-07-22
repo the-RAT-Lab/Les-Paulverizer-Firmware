@@ -1,0 +1,12 @@
+0; Fly_E2_Clean.wav; 
+1; Fly_E2_Drive.wav; 
+2; Fly_A2_Clean.wav; 
+3; Fly_A2_Drive.wav; 
+4; Fly_D3_Clean.wav; 
+5; Fly_D3_Drive.wav; 
+6; Fly_G3_Clean.wav; 
+7; Fly_G3_Drive.wav; 
+8; Fly_B3_Clean.wav; 
+9; Fly_B3_Drive.wav; 
+10; Fly_E4_Clean.wav; 
+11; Fly_E4_Drive.wav;

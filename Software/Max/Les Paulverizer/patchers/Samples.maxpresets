@@ -1,0 +1,7 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-352", "textedit", "restoretext", "Fly_E4_Drive.wav", 5, "obj-359", "textedit", "restoretext", "Fly_E4_Clean.wav", 5, "obj-327", "textedit", "restoretext", "Fly_B3_Drive.wav", 5, "obj-340", "textedit", "restoretext", "Fly_B3_Clean.wav", 5, "obj-291", "textedit", "restoretext", "Fly_G3_Drive.wav", 5, "obj-299", "textedit", "restoretext", "Fly_G3_Clean.wav", 5, "obj-307", "textedit", "restoretext", "Fly_D3_Drive.wav", 5, "obj-315", "textedit", "restoretext", "Fly_D3_Clean.wav", 5, "obj-275", "textedit", "restoretext", "Fly_A2_Drive.wav", 5, "obj-283", "textedit", "restoretext", "Fly_A2_Clean.wav", 5, "obj-204", "textedit", "restoretext", "Fly_E2_Drive.wav", 5, "obj-175", "textedit", "restoretext", "Fly_E2_Clean.wav" ]
+		}
+ ]
+}
