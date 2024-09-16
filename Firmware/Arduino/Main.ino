@@ -7,11 +7,11 @@
 //#define button_two 2
 //#define button_three 3
 //#define button_four 4
-#define button_five 5
+//#define button_five 5
 #define button_six 6
 #define button_seven 7
 #define button_eight 8
-//#define button_nine 9
+#define button_nine 9
 //#define button_ten 10
 //#define button_eleven 11
 //#define button_twelve 12
@@ -35,11 +35,11 @@
 //#define button_two_note 55
 //#define button_three_note 57
 //#define button_four_note 59
-#define button_five_note 61
+//#define button_five_note 61
 #define button_six_note 63
 #define button_seven_note 65
 #define button_eight_note 67
-//#define button_nine_note 69
+#define button_nine_note 69
 //#define button_ten_note 71
 //#define button_eleven_note 73
 //#define button_twelve_note 75
@@ -60,7 +60,7 @@
 //#define pot_zero A0
 //#define pot_one A1
 //#define pot_two A2
-#define pot_three A1
+#define pot_three A3
 //#define pot_four A4
 //#define pot_five A5
 //#define pot_six A6
